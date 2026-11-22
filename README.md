@@ -1,6 +1,6 @@
 # GetOut
 
-Organizza il materiale di lavoro dentro valigie, zaini e flight case: vista 3D, ricerca, pezzi,
+Organizza il materiale di lavoro dentro valigie, zaini e flight case: vista 3D, ricerca, strumenti,
 scorte da riordinare, prestiti con promemoria WhatsApp, import/export Excel.
 
 **Versione attuale: 1.2.5.0**

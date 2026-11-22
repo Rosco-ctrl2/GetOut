@@ -1,3 +1,3 @@
-win 1.2.5.0 5b77db7723d589b6ce3c17b2fe4f7174ccf856306f9c3afebaf70a6df5b90d1e GetOut-win.html
-win-vuota 1.2.5.0 d934cab5e86572fc9458ccf4799f175e09f92b8f96b8ff38cb41ec24e2c8b8f6 GetOut-win-vuota.html
-mac 1.2.5.0 53d824e5828feab0b8f888aadd4cdad068b5fe07157707ca1016198eaa6e585f GetOut-mac.html
+win 1.2.6.0 eb5070ea7ff50cf80d2031bec4c93151070ee91d35e240f3a450c4ffc2487dc1 GetOut-win.html
+win-vuota 1.2.6.0 c36e8bc6b6e1ac0dc0ca62ce17a0eaf6be370b6707a3028103bb216f4a0155d9 GetOut-win-vuota.html
+mac 1.2.6.0 604e3a4d6605c9dd777a94159c6b93537521f7be96940f985ebb76f0172d88aa GetOut-mac.html
